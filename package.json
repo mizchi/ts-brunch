@@ -1,8 +1,8 @@
 {
-  "name": "javascript-brunch",
+  "name": "ts-brunch",
   "version": "1.7.1",
   "description": "Adds JavaScript support to brunch.",
-  "author": "Paul Miller (http://paulmillr.com/)",
+  "author": "mizchi",
   "homepage": "https://github.com/brunch/javascript-brunch",
   "repository": {
     "type": "git",
